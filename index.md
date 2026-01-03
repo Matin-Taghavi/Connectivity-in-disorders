@@ -61,7 +61,7 @@ layout: default
 
 **راهنمای تصویری ثبت‌نام و ورود به ماتریکس**
 
-![](ٍElement.jpg)
+<img src="Element.jpg">
 
 ## 2\. دلتاچت (Delta Chat)
 
